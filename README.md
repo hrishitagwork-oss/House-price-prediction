@@ -526,7 +526,3 @@ Aspiring Data Analyst and Python enthusiast interested in:
 * Python
 * Data Visualization
 * Web Development
-
-
-```text
-price
